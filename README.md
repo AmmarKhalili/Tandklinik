@@ -25,19 +25,21 @@ och öppettider att finnas.
 
  1. Klona projektet
 
-git clone https://github.com/ditt-användarnamn/boka-tandlakare.git
-cd boka-tandlakare
+        git clone https: //github.com/ditt-användarnamn/boka-tandlakare.git
+    
+        cd boka-tandlakare
 
-2. Installera beroenden
+3. Installera beroenden
 
    npm install
    
 4. Skapa .env.local och lägg till följande variable
 
    EMAIL_USER=ditt-email@gmail.com
+   
    EMAIL_PASSWORD=ditt-lösenord
 
-5. Run the developer server
+6. Run the developer server
    
    npm run dev
 
