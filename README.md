@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tandklinik-hemsida
 
 Ett modernt bokningssystem för en tandvårdsklinik byggt med **Next.js, TypeScript och Nodemailer**.  
@@ -43,3 +44,7 @@ och öppettider att finnas.
    
    npm run dev
 
+=======
+# Tandklinik
+.
+>>>>>>> ecc04f1688ce2e4b2f092befe4e449ae6ac309a1
